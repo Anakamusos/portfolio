@@ -1,0 +1,22 @@
+h1.blue{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3.centre{
+    text-align: center;
+    font-weight: bold;
+}
+
+td,th{
+    border: blue 1px solid;
+    height: 3cm;
+    width: 9cm;
+    text-align: center;
+}
+
+span.bold{
+    font-weight: bold;
+}
+
