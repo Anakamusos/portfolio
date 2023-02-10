@@ -20,3 +20,8 @@ span.bold{
     font-weight: bold;
 }
 
+table{
+    justify-content: center;
+    margin: 0 auto;
+}
+
